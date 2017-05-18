@@ -42,5 +42,5 @@
    => /dev/spidev.0.1 -> /dev/spidev.0.0
 
 # Info
-- Munki Paeg of NIP.co.kr 
+- Munki Paeg
 - 2017/5/18
