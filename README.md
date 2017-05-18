@@ -3,10 +3,8 @@
 
 # Reference SDK and codes
 - Lepton SDK
-  Lepton (without radiometry) SDK – 32-bit
-  Lepton (without radiometry) SDK – 64-bit
-  Lepton SDK (with radiometry) – 32-bit
-- CODES 
+- CODES
+
   https://github.com/NachtRaveVL/Lepton-FLiR-Arduino for Arduino
   https://github.com/groupgets/LeptonModule for RPI2
 
@@ -41,6 +39,6 @@
 4. You need to change the source code for SPI
    => /dev/spidev.0.1 -> /dev/spidev.0.0
 
-#Info
+# Info
 - Munki Paeg of NIP.co.kr 
 - 2017/5/18
