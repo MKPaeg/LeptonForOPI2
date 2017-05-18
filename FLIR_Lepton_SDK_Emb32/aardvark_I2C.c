@@ -48,7 +48,7 @@
 
 #include "LEPTON_Types.h"
 #include "LEPTON_ErrorCodes.h"
-#include "LEPTON_MACROS.h"
+#include "LEPTON_Macros.h"
 #include "aardvark_I2C.h"
 #include "aardvark.h"
 #include "LEPTON_I2C_Reg.h"
