@@ -33,8 +33,8 @@
    => Resolved using "sudo dkpg -i libapt-pkg4.12_1.0.9.8.4_armhf.deb"
 
 2. Installation of gcc, qt4 
-   => sudo apt-get builder-essential
-   => sudo apt-get install qt4-dev-tools, qt4-dev, qt4-core, qt4-gui, gt4-qmake
+   => sudo apt-get build-essential
+   => sudo apt-get install qt4-dev-tools, libqt4-dev, libqt4-core, libqt4-gui, libgt4-qmake
 
 3. You can open the gpm file by GIMP
 
